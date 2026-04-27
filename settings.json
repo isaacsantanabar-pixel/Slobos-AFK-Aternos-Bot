@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TotalAnarquico.aternos.me:44788"
+    "ip": "TotalAnarquico.aternos.me"
+    "porta": ""
     "version": "",
     "try-creative": false
   },
